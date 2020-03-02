@@ -1,0 +1,25 @@
+{
+  "name": "trillo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "next": "9.1.7",
+    "next-optimized-images": "^2.5.4",
+    "node-sass": "^4.13.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-icons": "^3.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.1.6",
+    "@types/react": "^16.9.17",
+    "typescript": "^3.7.4"
+  }
+}
